@@ -1,0 +1,98 @@
+
+img {
+    padding-top: 5%;
+    margin: 5%;
+}
+
+a {
+    margin: 3%;
+    font-family: Century Gothic;
+    color:#9ed670;
+}
+
+.enlaces {
+    margin-left: 5%;
+    top:120px;
+    position: absolute;
+    float: center;
+    text-align: center;
+    height: 13%;
+    width: 70%;
+}
+
+.uno {
+    float:left;
+    z-index: -2;
+    font-weight: 2%
+   
+}
+
+.busqueda {
+    position: relative;
+    padding-top: 8%;
+    right: -1%;
+    width: 25%;
+    height: 35%;
+    float: right;
+}
+
+
+.seccion1 {
+    position: absolute;
+    top: 35%;
+    margin-left: 15%;
+    margin-right: 5%;
+    background-color: #96ceb4;
+    width: 50%;
+    height: 40%;
+    float: left;
+    text-align: center;
+}
+
+.videos {
+    position: absolute;
+    top: 35%;
+    right: -1%;
+    width: 25%;
+    height: 35%;
+    float: right;
+    text-align: center;
+
+}
+
+label {
+    color:#4d7358;
+    font-family: Century Gothic;
+    font font-size: 100%;
+}
+
+
+.carrito {
+    clear: both;
+    position: absolute;
+    float: left;
+    top:80%;
+    margin-left: 8%;
+}
+
+.reciclar {
+     position: absolute;
+    top: 81%;
+    float: right;
+    margin-left: 60%;
+    
+}
+
+.redes {
+     clear: both;
+     position: absolute;
+    top: 130%;
+    float: left;
+    margin-left: 80%;
+    
+}
+
+input {
+font-family: Century Gothic;
+    color:#9ed670;
+}
